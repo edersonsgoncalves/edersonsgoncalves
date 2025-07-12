@@ -27,8 +27,5 @@ Hi! I'm Ederson (Ed, for short!), and I'm just beginning my journey into the tec
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/edersonsgoncalves) 
 
 ###
-<div align="center">
 [![](https://visitcount.itsvg.in/api?id=edersonsgoncalves&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
