@@ -4,7 +4,7 @@ Hi! I'm Ederson (Ed, for short!), and I'm just beginning my journey into the tec
 
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ed_goncalves) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devbyed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/passosdoed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edersongoncalves.dev@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ed_goncalves) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edersongoncalves) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/passosdoed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edersongoncalves.dev@gmail.com) 
 
 # 💻 Tech Stack:
 ### Programming 
